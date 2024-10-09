@@ -10,7 +10,7 @@ Se representa al jugador como un campesiono que tiene la propíedad de lanzar pr
 
 ### Exportación del Paquete de Unity
 El paquete exportado está disponible en la carpeta "Exportaciones"
-  [Documento de Expotación de la Lección:](Exportaciones/Prototipo03_CBDJ.unitypackage)
+  [Documento de Expotación de la Lección:](Exportaciones/Prototipo02_CBDJ.unitypackage)
 
 ### Capturas de Pantalla
 Se muestran las capturas de pantalla, de proceso de desarrollo del videojuego, asi mismo el código y la escena en donde se presentan los personajes:
