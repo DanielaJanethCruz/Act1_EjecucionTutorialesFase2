@@ -10,7 +10,7 @@ En este repositorio se encontraran las lecciones y desafios ejecutados en clases
 
 ### Lecciones
 
-1. [Lección 1: Control del Jugador](Lecciones/Lección1_Control_Jugador/)
+1. [Lección 1: Control del Jugador](Lecciones/Leccion 1: Control del Jugador/)
 2. [Lección 2: Jugabilidad Básica](Lecciones/Lección2_Jugabilidad_Básica/)
 3. [Lección 3: Animations 2d Parte 1](Lecciones/Lección3_Sonidos_Efectos/)
 4. [Lección 4: Mecánicas de Jugabilidad](Lecciones/Lección4_Mecánicas_Jugabilidad/)
