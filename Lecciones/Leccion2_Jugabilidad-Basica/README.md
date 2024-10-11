@@ -14,4 +14,4 @@ El paquete exportado está disponible en la carpeta "Exportaciones"
 
 ### Capturas de Pantalla
 Se muestran las capturas de pantalla, de proceso de desarrollo del videojuego, asi mismo el código y la escena en donde se presentan los personajes:
-[Documento de Capturas]()
+[Documento de Capturas](Capturas/Prototipo02_CBDJ.pdf)
