@@ -9,7 +9,7 @@ En base a las animaciones creadas en la parte 1, se especifica el movimiento del
 - Fecha: 16 - octubre -2024
 
 ### Exportación del Paquete de Unity
-El paquete exportado está disponible en la carpeta "Exportaciones"\n
-  [Animación 2D Parte 1:](Exportaciones/Prototipo03_CBDJ.unitypackage)
+El paquete exportado está disponible en la carpeta "Exportaciones"
+  [Animación 2D Parte 2:](Exportaciones/Prototipo03_CBDJ.unitypackage)
 
 
