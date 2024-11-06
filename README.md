@@ -16,8 +16,8 @@ En este repositorio se encontraran las lecciones y desafios ejecutados en clases
 4. [Lección 3: Animations 2D Parte 2](Lecciones/Lección3_Animations2DParte2/README.md) OK 
 5. [Lección 4: Animations 2D Parte 3](Lecciones/Lección4_Mecánicas_Jugabilidad/)
 6. [Lección 4: Animations 2D Parte 4](Lecciones/Lección4_Mecánicas_Jugabilidad/)
-5. [Lección 4: Animations 2D Parte 5](Lecciones/Lección4_Mecánicas_Jugabilidad/)
-6. [Lección 4: Animations 2D Parte 6](Lecciones/Lección4_Mecánicas_Jugabilidad/)
+5. [Lección 5: Animations 2D Parte 5](Lecciones/Lección4_Mecánicas_Jugabilidad/)
+6. [Lección 5: Animations 2D Parte 6](Lecciones/Lección4_Mecánicas_Jugabilidad/)
 
 ### Desafíos
 
