@@ -2,7 +2,7 @@
 # Lección 4: Animaciones 2D Parte 3
 
 ## Descripción
-En base a las animaciones creadas en la parte 1, se especifica el movimiento del jugador y la relacion con el teclado, se le asigna un indice para la relacion con las animacione sy los movimientos ingresados a traves de las teclas W, A, D y S, asi como tambien las teclas de flecha.
+En base a la parte 2, se realizan las restricciones de movieminto del personaje en el escenario a traves de colliders y la ganeración del esceneario final, con sprites y tiles palette
 
 ### Autor
 - Nombre: Cruz Breña Daniela Janeth
