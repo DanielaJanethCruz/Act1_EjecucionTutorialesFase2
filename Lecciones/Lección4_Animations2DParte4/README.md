@@ -9,7 +9,7 @@ En base a las animaciones y escenarios creados en la parte 3, en este proyecto s
 
 ### Exportación del Paquete de Unity
 El paquete exportado está disponible en la carpeta "Exportaciones"
-  [Animación 2D Parte 4:]()
+  [Animación 2D Parte 4:](https://github.com/DanielaJanethCruz/Act1_EjecucionTutorialesFase2/blob/main/Lecciones/Lecci%C3%B3n4_Animations2DParte4/Exportaciones/Prototipo04_CBDJ-Parte4.unitypackage)
 
 ### Capturas de Pantalla 
 El pdf con las capturas de ejecución del proyecto esta dispónible en la carpeta de "Capturas"
