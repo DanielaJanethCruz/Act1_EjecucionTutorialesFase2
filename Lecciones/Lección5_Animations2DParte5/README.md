@@ -9,7 +9,7 @@ En base a lo completado en la parte 4, se crea la linea de vida en dnde a partir
 
 ### Exportación del Paquete de Unity
 El paquete exportado está disponible en la carpeta "Exportaciones"
-  [Animación 2D Parte 5:]()
+  [Animación 2D Parte 5:](https://github.com/DanielaJanethCruz/Act1_EjecucionTutorialesFase2/blob/main/Lecciones/Lecci%C3%B3n5_Animations2DParte5/Exportaciones/Prototipo05_CBDJ-Parte5.unitypackage)
 
 ### Capturas de Pantalla 
 El pdf con las capturas de ejecución del proyecto esta dispónible en la carpeta de "Capturas"
