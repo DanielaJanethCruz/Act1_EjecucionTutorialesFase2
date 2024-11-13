@@ -10,7 +10,7 @@ En base a la parte 2, se realizan las restricciones de movieminto del personaje 
 
 ### Exportación del Paquete de Unity
 El paquete exportado está disponible en la carpeta "Exportaciones"
-  [Animación 2D Parte 3:]()
+  [Animación 2D Parte 3:](https://github.com/DanielaJanethCruz/Act1_EjecucionTutorialesFase2/blob/main/Lecciones/Lecci%C3%B3n4_Animations2DParte3/Exportaciones/Prototipo04_CBDJ.unitypackage)
 
 ### Capturas de Pantalla 
 El pdf con las capturas de ejecución del proyecto esta dispónible en la carpeta de "Capturas"
