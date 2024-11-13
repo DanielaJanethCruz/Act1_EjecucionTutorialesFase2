@@ -13,4 +13,4 @@ El paquete exportado está disponible en la carpeta "Exportaciones"
 
 ### Capturas de Pantalla 
 El pdf con las capturas de ejecución del proyecto esta dispónible en la carpeta de "Capturas"
-  [Animación 2d Parte 5:]()
+  [Animación 2d Parte 5:](https://github.com/DanielaJanethCruz/Act1_EjecucionTutorialesFase2/blob/main/Lecciones/Lecci%C3%B3n5_Animations2DParte5/Capturas/Lecci%C3%B3n5_Animations2DParte5-capturas.pdf)
