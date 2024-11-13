@@ -1,7 +1,7 @@
 # Lección 5: Animaciones 2D Parte 5
 
 ## Descripción
-
+En base a lo completado en la parte 4, se crea la linea de vida en dnde a partir de los corazones se realiza el crecimeinto de la linea de vida a partir de Menú Items personalizados que especifican el crecimiento de la linea de vida del jugador.
 
 ### Autor
 - Nombre: Cruz Breña Daniela Janeth
