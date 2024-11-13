@@ -1,7 +1,7 @@
 # Lección 4: Animaciones 2D Parte 4
 
 ## Descripción
-En base a las animaciones creadas en la parte 1, se especifica el movimiento del jugador y la relacion con el teclado, se le asigna un indice para la relacion con las animacione sy los movimientos ingresados a traves de las teclas W, A, D y S, asi como tambien las teclas de flecha.
+En base a las animaciones y escenarios creados en la parte 3, en este proyecto se identifican los premiso y la vida del jugador, creando asi las monedas y los corazones que son los medios de premios y de regeneración de vida, asi mismo se crean capas en el proyecto para cada uno de los personajes en el escenario.
 
 ### Autor
 - Nombre: Cruz Breña Daniela Janeth
